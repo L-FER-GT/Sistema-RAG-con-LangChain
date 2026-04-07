@@ -2,7 +2,7 @@
 # 🧠 Sistema RAG en Español con LangChain
 **Autor:** Fernando Gutierrez  
 **GitHub:** [L-FER-GT](https://github.com/L-FER-GT)  
-**Fecha:** 24 de febrero de 2026
+**Fecha:** 06 de abril de 2026
 
 ---
 
